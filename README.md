@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://media.giphy.com/media/0S8RTFQtfG5YQSd3mJ/giphy.gif)
 ![](https://media.giphy.com/media/75WQjRbc30HutEoQHJ/giphy.gif)
-![](gif3-link-here)
+![](https://media.giphy.com/media/a91WKil9CDK4IBsrbA/giphy.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
