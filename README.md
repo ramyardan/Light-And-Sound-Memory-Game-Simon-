@@ -24,7 +24,7 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-- [x] Change background, headling, and body text color.
+- [x] Change background, headling, and body text color within the game.
 
 ## Video Walkthrough (GIF)
 
