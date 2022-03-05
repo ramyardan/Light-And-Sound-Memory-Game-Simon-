@@ -2,6 +2,8 @@
 
 **Light And Sound Memory Game Simon** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
+Inspired by the 1980's famous electronic game of memory skill , Simon, by Milton Bradley. The game creates a series of tones and lights and requires a user to repeat the sequence.
+
 Submitted by: **Ramyar Daneshgar**
 
 Time spent: **6** hours spent in total
