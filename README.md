@@ -61,7 +61,8 @@ If I had more hours to work on this project, I would spend time implementing con
 
 [My 5-minute Interview Recording]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QMHMb1dOjfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/QMHMb1dOjfE
+
 
 ## License
 
