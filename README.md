@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://media.giphy.com/media/0S8RTFQtfG5YQSd3mJ/giphy.gif)
-![](gif2-link-here)
+![playing game](https://media.giphy.com/media/0S8RTFQtfG5YQSd3mJ/giphy.gif)
+![losing game](https://media.giphy.com/media/75WQjRbc30HutEoQHJ/giphy.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
